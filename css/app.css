@@ -77,6 +77,10 @@ footer {
   font-weight: bold;
 }
 
+#blockchainChartLarge {
+  height: 512px;
+}
+
 .dataTables_wrapper {
   width: 100% !important;
 }
