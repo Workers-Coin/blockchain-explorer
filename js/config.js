@@ -1,5 +1,5 @@
 const ExplorerConfig = {
-  apiBaseUrl: 'https://blockapi.turtlepay.io',
+  apiBaseUrl: 'http://explorer.workerscoin.info',
   poolApiUrl: 'https://poolapi.turtlepay.io/',
   poolListUrl: 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-pools-json/master/v2/turtlecoin-pools.json',
   ticker: 'TRTL',
